@@ -51,7 +51,7 @@ const Navigation = () => {
               <Mountain className="w-6 h-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-foreground">Monastery360</h1>
+              <h1 className="text-xl font-bold text-foreground">NorbuVerse</h1>
               <p className="text-sm text-muted-foreground hidden sm:block">Sikkim's Digital Heritage</p>
             </div>
           </div>

@@ -33,7 +33,7 @@ const HeroSection = () => {
                 Sacred Heritage
               </span>
             </h1>
-            <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
+            <p className="text-lg md:text-xl text-black max-w-3xl mx-auto leading-relaxed">
               Immerse yourself in 3D virtual tours of ancient monasteries, discover rich cultural traditions, 
               and plan your spiritual journey through the mystical lands of Sikkim.
             </p>
